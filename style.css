@@ -1,0 +1,17 @@
+body {
+    color: rgb(252, 195, 202);
+    font-weight:bold;
+    text-align: center;
+}
+
+h1 {
+    color: black;
+}
+
+#name-animal {
+    color: black;
+}
+
+#image-container {
+    margin-top: 20px;
+}
